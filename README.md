@@ -1,9 +1,9 @@
-# MyOwn-TTS
+# Taein-TTS
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 
-MyOwn-TTS is a project aimed at creating a text-to-speech (TTS) system that reads sentences in your own voice. This repository includes pre-trained models that have been trained using my voice.
+Taein-TTS is a project aimed at creating a text-to-speech (TTS) system that reads sentences in my own voice. This repository includes pre-trained models that have been trained using my voice.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ MyOwn-TTS is a project aimed at creating a text-to-speech (TTS) system that read
 This README focuses on guiding you through the process of synthesizing speech using pre-trained models, rather than detailing the model training process.
 
 1. Clone the huggingface repository:
-   [huggingface](https://huggingface.co/icecream0910/taein-tts)
+   [https://huggingface.co/icecream0910/taein-tts](https://huggingface.co/icecream0910/taein-tts)
 
 2. Modify the `run-server.bat` batch file in the `/server` directory to match your actual file paths.
 
