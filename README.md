@@ -1,5 +1,8 @@
 # Taein-TTS
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<p>
+<img src="https://img.shields.io/badge/license-MIT-333333.svg?&style=for-the-badge"/>
+<a href="https://icecream0910.github.io/taein-tts/demo" target="_blank"><img src="https://img.shields.io/badge/DEMO-333333.svg?&style=for-the-badge"/></a>
+</p>
 
 ## Description
 
